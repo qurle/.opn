@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "name": "Nick Denisov",
+  "description": "designer with engineer mindset",
+  "sections": [
+    {
+      "title": "Jobs",
+      "type": "list",
+      "items": [
+        {
+          "title": "VK",
+          "description": "Design System Designer",
+          "url": "https://vk.company/",
+          "date": "2024 – now"
+        },
+        {
+          "title": "M18",
+          "description": "UX/UI Desiner",
+          "url": "https://m18.ru/",
+          "date": "2022 – 2023"
+        },
+        {
+          "title": "Yandex Practicum",
+          "description": "Reviewer",
+          "url": "https://practicum.yandex.ru/",
+          "date": "2023"
+        }
+      ]
+    },
+    {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "Website",
+          "url": "https://qurle.net"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/qurle"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/qurle"
+        },
+         {
+          "title": "X / Twitter",
+          "url": "https://x.com/nick_qurle"
+        }
+      ]
+    }
+  ]
+}
