@@ -28,6 +28,30 @@
       ]
     },
     {
+      "title": "Projects",
+      "type": "list",
+      "items": [
+        {
+          "title": "VKUI",
+          "description": "Cross platfrom design system",
+          "url": "https://vkui.io/",
+          "date": "2025"
+        },
+        {
+          "title": "type",
+          "description": "Zen text editor",
+          "url": "https://type.baby/",
+          "date": "2024"
+        },
+        {
+          "title": "Figma plugins",
+          "description": "Some workflow boosters",
+          "url": "https://www.figma.com/@qurle"
+          "date": "2022 — now"
+        }
+      ]
+    },
+    {
       "title": "Socials",
       "type": "links",
       "links": [
